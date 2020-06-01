@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gleiba-api",
+  "private_key_id": "7fdddca4d34b8acadd1a125691ce8a4043c7d6da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqTfbC3EJqk3h+\nZDcGIVk6TsR+idJtTy8mnXAxVEWx1lMjr7W9DfO9VAppmriHZZpiVrfLrTJOUZYX\nEI+4Pzwek2l9RjKoqcxo5g7TEnx4FreMVWeTeRs+raXsO1r9Gfnp5rZXbobABJ3T\nO5UU6rSVtLja/+S6Hwxzq6Lp7x/Ap/o5otT91UsukN4Kj/9emLwor2zTcXzgsDfI\nGH0J0ULGgj5J8+wzvTzG6Xr9jNIbVKrcb8tlm8wcMvezAwZEvDQqfqclYTysywAU\nfJbExNwVBWoLph6m/Q1MtjUJniCmIOevhxklnJE+CC86erCEpcYFnzMCOX56P/4N\nIEKd6wKtAgMBAAECggEAGqSdfQkHYklVmZ8PqqevSrtwQIRK8Cs/VaZeGyGI0RRr\nfP2WtuUcDjERJfSnd2syTBMuqDBy2nonZc6t+qWjP/ymOAvc410ZFl9zefBTmlf3\neX68+FSDKiWcJnPMvXmsYDw7UjyqMRfSdxhEWk7eVz4RiMAYJkldjH+8D3wHoX8v\nPzEnljjljWl+813NE47dHCbzG8qKqbXxPxVMpQLbD/lZGpdsBzt0bnF5sfPnO5Y2\njfTL77IdX33TNiQmbKha+GvaDE3fsJeyJQXxN+vgVyPu0z/lUGSdvV2zxpTENLxF\noed/iquDN2TcHlNjKcLooDdmbbQRy/qcmVwk6yVIswKBgQDdO0EQgjkO45Jwux3E\nhw9B2z9UA0PnFX4AoBV+P9JrZ3/IUSUEB2VVEIdAqVcn5/EhY4PlbAIEyvxQOuMv\nA+4DZLSLSLvDYKouB/vLcHCEVOBftXbg/pzNsn266Ysls4EeeyVMrklMau9+VW1l\nAyz8/MSH/eZUNKM/xhC/b8gmswKBgQDFEcfoVBkEoldtXiz1suN8WXrJDH6bBtXf\nuTuTthhsjysMt8OcGRja5L+uqPJhzNCGqt71exMcv8pxa9Bo2bk0jXkMdvz9QgGZ\nex3RAT91TxZ/OR2Nl4x+bJRKsb6kK0D1Ri5zr4ha64n2EwCmCM8J0SLHOHr6TCkY\nNy/ZKCnhHwKBgENimwzmPW71jlNcC1MjOFh86aszW2l1uG2EVUehNPyWB+wCG15A\nynLAmBHwAqYbFe1vnGszHOJM2dGuPijB76uE7yFFxDtcpDllISL0WrFUEQvWACHE\nLArThUx7enC/XmLka5YRuC3YnJ5Ecw/Did59N3ectJ2NcvQn5k4JRFPVAoGAb0em\nGbP7WJmPQsvOGYPFXz9rzUGH8GSAus9vK+7EhfCmP405INkvJtPKxYbTL5SnH5Q3\nSGkSFsbaOwfFbJ+dLGbCtt4t55ixLIjQAmhw+/4H1xlabczo4a7QYglSfIOML7RM\noLi7B5Q/mDuMvzT0LDfzKonjL5l4DxuCol5Cn8MCgYAdAtIlfBA8idUODfQu6Y2G\nE2n9dDW6ai2TiH2qPd+JFnAax/A8/2kAiCNoLYewyyZRbc4ARq/I/h91aQtnQXbO\nlBD1oHaJode2sXEPMkKiHqzP29tBh5PQVXqXGnUwO1V8jF09QJF26zZrpeGkDvaI\neqPMBQ5AaSaRhP8LRx8iUQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gleiba@gleiba-api.iam.gserviceaccount.com",
+  "client_id": "117429272090696156288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gleiba%40gleiba-api.iam.gserviceaccount.com"
+}

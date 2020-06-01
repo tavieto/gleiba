@@ -11,5 +11,6 @@ client = gspread.authorize(creds)
 sheet = client.open("lista-teste").sheet1
 
 data = sheet.get_all_records()
+col = sheet.col_values(2)
 
-pprint(data)
+pprint(col)

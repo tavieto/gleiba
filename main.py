@@ -14,15 +14,16 @@ col = sheet.col_values(2)
 
 # Abrindo navegador
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 
-navegador = webdriver.Chrome(executable_path='chromedriver')
+navegador = webdriver.Chrome(ChromeDriverManager().install())
 url = 'http://consultaaluno.educacao.ba.gov.br/'
 navegador.get(url)
 
 input = navegador.find_element_by_id('matricula')
 
 for id in range(1, len(col)):
-    navegador.implicitly_wait(3.7)
+    navegador.implicitly_wait(4)
     input.send_keys(col[id])
     try:
         emailElement = navegador.find_element_by_tag_name('b')
